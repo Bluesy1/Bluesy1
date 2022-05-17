@@ -14,6 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluesy1&layout=compact&theme=gruvbox&exclude_repo=AlgaeBiofuels-NetlogoHTML-Files)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Bluesy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bluesy&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Bluesy1/Bluesy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
