@@ -17,6 +17,8 @@
 
 [![Bluesy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bluesy&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@bluesy1's Holopin board](https://holopin.io/api/user/board?user=bluesy1)](https://holopin.io/@bluesy1)
+
 <!--
 **Bluesy1/Bluesy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
