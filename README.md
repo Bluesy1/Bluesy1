@@ -9,7 +9,7 @@
    - HTML5
    - CSS
    - JavaScript/TypeScript
- - I'm currently working on my bot [Scam Scanner](https://github.com/Scam-Scanner).
+ - I'm currently working on my bot [Charbot](https://github.com/Bluesy1/CharB0T/).
 
 [![Bluesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluesy1&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
