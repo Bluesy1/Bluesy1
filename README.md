@@ -3,7 +3,7 @@
  - Third Year Chemistry Major and Data Science Minor [@UBC](https://www.ubc.ca/) and a discord bot/data analysis developer.
  - Proficient in:
    - Python
-   - Java
+   - Java/Kotlin
  - Learning:
    - Rust
    - HTML5
