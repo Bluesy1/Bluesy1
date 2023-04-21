@@ -9,6 +9,7 @@
    - HTML5
    - CSS
    - JavaScript/TypeScript
+<!--
  - I'm currently working on my bot [Charbot](https://github.com/Bluesy1/CharB0T/).
 
 [![Bluesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluesy1&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,6 +21,7 @@
 ![Bluesy's Commit History](https://github-readme-streak-stats.herokuapp.com/?user=bluesy1&theme=gruvbox)
 
 [![@bluesy1's Holopin board](https://holopin.io/api/user/board?user=bluesy1)](https://holopin.io/@bluesy1)
+-->
 
 <!--
 **Bluesy1/Bluesy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
