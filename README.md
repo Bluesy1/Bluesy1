@@ -1,9 +1,11 @@
 ### Hi there 👋
 
- - Third Year Chemistry Major and Data Science Minor [@UBC](https://www.ubc.ca/) and a discord bot/data analysis developer.
+ - Fourth Year Data Science Major [@UBC](https://www.ubc.ca/) and a discord bot/data analysis developer.
  - Proficient in:
    - Python
+   - SQL
    - Java/Kotlin
+   - VB/VBA
  - Learning:
    - Rust
    - HTML5
