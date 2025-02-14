@@ -11,6 +11,7 @@
    - HTML5
    - CSS
    - JavaScript/TypeScript
+   - PHP
 <!--
  - I'm currently working on my bot [Charbot](https://github.com/Bluesy1/CharB0T/).
 
