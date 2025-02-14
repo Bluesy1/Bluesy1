@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - Fourth Year Data Science Major [@UBC](https://www.ubc.ca/) and a discord bot/data analysis developer.
+ - Fourth Year Data Science Major [@UBC](https://www.ubc.ca/).
  - Proficient in:
    - Python
    - SQL
